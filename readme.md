@@ -3,19 +3,17 @@
 
 Welcome to cubeking.github.io, your best option for unblockers on the internet.
 
-## Features
+## Things I do
 
-- Site-wide tab cloaking
-- Easy to deploy
-- Clean UI
+- Find good unblockers
+- Put them on the website
+- Usually for school but idk
 - Cross platform
 - Easy to use
-- Light on host resources
-- And so much more!
 
 
 ## Website
 
-You can access this project using the link below
+You can access the website using the link below
 
 [https://cubeking33.github.io](https://cubeking33.github.io)
